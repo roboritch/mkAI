@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7bfd3ba406a81e42bd16a3c4edff6e8
+timeCreated: 1474770924
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - comRepresentation: {fileID: 1000013567012192, guid: 7e2a44bec558fcd4281ef690ff403f88,
+      type: 2}
+  - blueMat: {fileID: 2100000, guid: 53966c75aa13feb4892be86f2575524c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

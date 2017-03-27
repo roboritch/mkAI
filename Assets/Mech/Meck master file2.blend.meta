@@ -49,6 +49,13 @@ ModelImporter:
     100082: upperArm_R
     100084: upperLeg_L
     100086: upperLeg_R
+    100088: camera_loc
+    100090: tourso
+    100092: piston_LL_endpoint
+    100094: piston_LR_endpoint
+    100096: piston_RL_endpoint_001
+    100098: piston_RR_endpoint
+    100100: Empty
     400000: ankle_L
     400002: ankle_R
     400004: ankleRotator_L
@@ -93,6 +100,13 @@ ModelImporter:
     400082: upperArm_R
     400084: upperLeg_L
     400086: upperLeg_R
+    400088: camera_loc
+    400090: tourso
+    400092: piston_LL_endpoint
+    400094: piston_LR_endpoint
+    400096: piston_RL_endpoint_001
+    400098: piston_RR_endpoint
+    400100: Empty
     2300000: ankle_L
     2300002: ankle_R
     2300004: ankleRotator_L
@@ -137,6 +151,7 @@ ModelImporter:
     2300082: upperArm_R
     2300084: upperLeg_L
     2300086: upperLeg_R
+    2300088: tourso
     3300000: ankle_L
     3300002: ankle_R
     3300004: ankleRotator_L
@@ -181,6 +196,7 @@ ModelImporter:
     3300082: upperArm_R
     3300084: upperLeg_L
     3300086: upperLeg_R
+    3300088: tourso
     4300000: tourso
     4300002: head
     4300004: shoulder_L
